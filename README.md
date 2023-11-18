@@ -1,2 +1,2 @@
 # GISPython
-PythonでGIS処理をしてみる。
+PythonでGIS処理をしてみる
